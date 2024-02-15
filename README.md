@@ -1,5 +1,5 @@
 # Subregion-specific-dynamics-of-striatal-dopamine
-Code associated with Mohebi et al., 'Nature Neuroscience', 2024 (Open Access)
+Code associated with Mohebi et al., _Nature Neuroscience_, 2024 (Open Access)
 
 https://www.nature.com/articles/s41593-023-01566-3
 
